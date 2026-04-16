@@ -106,7 +106,7 @@ public class CalculadoraIMC extends Application {
         else return "Obesidade 3 (mórbida)";
     }
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         launch(args);
     }
  }
